@@ -1,4 +1,4 @@
-# Welcome! 👋
+# 👋 Welcome to my collection of spaghetti code! 🍝
 
 ### I'm Aiden Bowcott
 Right now I'm studying at Modesto Junior College here in CA. I just finished my first two years in college and am getting ready to transfer to Stan State in Fall 2026
